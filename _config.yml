@@ -1,0 +1,28 @@
+name: The Scary Guy
+favicon: null
+layout_spectrum: 0.5478490821551532
+typography_spectrum: 0.7115426827222109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.987814394524321
+  lightness: 0.41813274030573666
+  saturation: 0.6066284743137658
+  rhythmicContrast: 0.03767294716089964
+purpose: []
