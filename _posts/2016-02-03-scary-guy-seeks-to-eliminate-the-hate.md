@@ -28,8 +28,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.hamburgreporter.com/article/20160128/NEWS/160129916'
 title: Scary Guy seeks to eliminate the hate
-datePublished: '2016-02-03T10:33:59.967Z'
-dateModified: '2016-02-03T10:31:50.179Z'
+datePublished: '2016-02-03T10:43:24.935Z'
+dateModified: '2016-02-03T10:32:26.710Z'
 sourcePath: _posts/2016-02-03-scary-guy-seeks-to-eliminate-the-hate.md
 published: true
 inFeed: true
