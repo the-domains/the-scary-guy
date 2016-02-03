@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://thescaryguy.com'
-  name: Thescaryguy
-  favicon: 'http://thescaryguy.com/wp-content/themes/scaryguy/favicon.ico'
-  domain: thescaryguy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://thescaryguy.com/private-consultation/'
+inLanguage: en
+starred: false
 keywords:
   - personal
   - scary
@@ -18,19 +17,22 @@ keywords:
   - name-calling
   - self-harming
 description: 'Would you like to maximize your capacity for effective communication with others? Would you like to increase your personal focus and direction? Would you like to become fully self-confident in all of your words and actions? Are you facing issues of name-calling, harassment, intimidation and bullying?'
-inLanguage: en
+datePublished: '2016-02-03T13:44:18.456Z'
+dateModified: '2016-02-03T13:44:08.375Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://thescaryguy.com/private-consultation/'
 title: Key Personal Training
-datePublished: '2016-02-03T11:54:33.761Z'
-dateModified: '2016-02-03T11:54:11.150Z'
 sourcePath: _posts/2016-02-03-key-personal-training.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Thescaryguy
+  domain: thescaryguy.com
+  url: 'http://thescaryguy.com'
+  favicon: 'http://thescaryguy.com/wp-content/themes/scaryguy/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Key Personal Training</h1><p>Would you like to maximize your capacity for effective communication with others&amp;quest; Would you like to increase your personal focus and direction&amp;quest; Would you like to become fully self-confident in all of your words and actions&amp;quest; Are you facing issues of name-calling&amp;comma; harassment&amp;comma; intimidation and bullying&amp;quest;</p><img src="http://thescaryguy.com/wp-content/themes/scaryguy/images/bucket_book.png" /></article>
+![Creating a Powerful Mind](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40d49914-ed9a-4784-bbf1-f45c29810cb5.jpg)
