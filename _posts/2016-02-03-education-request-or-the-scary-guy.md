@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://thescaryguy.com'
-  name: Thescaryguy
-  favicon: 'http://thescaryguy.com/wp-content/themes/scaryguy/favicon.ico'
-  domain: thescaryguy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://thescaryguy.com/education-request/'
+inLanguage: en
+starred: false
 keywords:
   - visionheart
   - manifest
@@ -18,19 +17,22 @@ keywords:
   - root
   - throughout
 description: 'The Scary Guy is an expert in determining the root causes of emotional experiences that manifest themselves throughout communication on an individual, group and global scale. © Copyright VisionHeart Limited 2016 Terms of Use | Advertising | Contact Us'
-inLanguage: en
+datePublished: '2016-02-03T14:04:50.890Z'
+dateModified: '2016-02-03T14:04:44.410Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://thescaryguy.com/education-request/'
 title: 'Education Request | The Scary Guy'
-datePublished: '2016-02-03T12:50:45.489Z'
-dateModified: '2016-02-03T12:50:07.966Z'
 sourcePath: _posts/2016-02-03-education-request-or-the-scary-guy.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Thescaryguy
+  domain: thescaryguy.com
+  url: 'http://thescaryguy.com'
+  favicon: 'http://thescaryguy.com/wp-content/themes/scaryguy/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Education Request &amp;vert; The Scary Guy</h1><p>The Scary Guy is an expert in determining the root causes of emotional experiences that manifest themselves throughout communication on an individual&amp;comma; group and global scale&amp;period; © Copyright VisionHeart Limited 2016 Terms of Use &amp;vert; Advertising &amp;vert; Contact Us</p><img src="http://thescaryguy.com/wp-content/themes/scaryguy/images/bucket_book.png" /></article>
+![The Scary Guy is an expert in determining the root causes of emotional experiences that manifest themselves throughout communication on an individual, group and global scale. © Copyright VisionHeart Limited 2016 Terms of Use | Advertising | Contact Us](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a6d29f3-efd0-47b7-b2f2-70ccdb896502.jpg)
