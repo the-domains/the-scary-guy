@@ -2,28 +2,28 @@
 author: []
 related: []
 publisher:
-  url: 'https://en.wikipedia.org'
-  name: Wikipedia
-  favicon: 'https://en.wikipedia.org/static/favicon/wikipedia.ico'
-  domain: en.wikipedia.org
+  url: 'http://www.dad.info'
+  name: Dad
+  favicon: 'http://www.dad.info/templates/dadinfo/favicon.ico'
+  domain: www.dad.info
 keywords:
   - scary
-  - tattoos
-  - guy
-  - negative
-  - kaufmann
-  - hate
+  - bully
   - words
-  - humour
-  - '1953'
-  - behavior
-description: 'The Scary Guy (born December 29, 1953) is a United Kingdom-based American/British motivational speaker who campaigns worldwide to eliminate hate, violence, prejudice, and bullying in schools and corporations. In addition to being a tattoo shop owner, comic, entertainer, inspirational speaker, and performance artist, The Scary Guy has pierced nose, eyebrows, and ears and covers over 85 percent of his body with tattoos.'
+  - children
+  - behaviour
+  - music
+  - violence
+  - negative
+  - different
+  - guy
+description: "He's covered in tattoos and facial piercings. I'm petrified. The music stops. Silence. Then The Scary Guy speaks OK... set the scene...I'm sitting in an auditorium filled to the brim with children, teenagers, teachers, carers, parents, play leaders, and even the Deputy Mayor. The lights are dimmed the projector is fired up and the loud music begins."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://en.wikipedia.org/wiki/The_Scary_Guy'
+isBasedOnUrl: 'http://www.dad.info/kids/children/the-scary-guy'
 title: The Scary Guy
-datePublished: '2016-02-03T11:17:20.756Z'
-dateModified: '2016-02-03T11:17:01.816Z'
+datePublished: '2016-02-03T14:31:16.560Z'
+dateModified: '2016-02-03T14:30:39.196Z'
 sourcePath: _posts/2016-02-03-the-scary-guy.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Scary Guy</h1><p>The Scary Guy &amp;lpar;born December 29&amp;comma; 1953&amp;rpar; is a United Kingdom-based American&amp;sol;British motivational speaker who campaigns worldwide to eliminate hate&amp;comma; violence&amp;comma; prejudice&amp;comma; and bullying in schools and corporations&amp;period; In addition to being a tattoo shop owner&amp;comma; comic&amp;comma; entertainer&amp;comma; inspirational speaker&amp;comma; and performance artist&amp;comma; The Scary Guy has pierced nose&amp;comma; eyebrows&amp;comma; and ears and covers over 85 percent of his body with tattoos&amp;period;</p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/THESCARYGUY2011B400.jpg/220px-THESCARYGUY2011B400.jpg" /></article>
+<article style=""><h1>The Scary Guy</h1><p>He's covered in tattoos and facial piercings&amp;period; I'm petrified&amp;period; The music stops&amp;period; Silence&amp;period; Then The Scary Guy speaks OK&amp;period;&amp;period;&amp;period; set the scene&amp;period;&amp;period;&amp;period;I'm sitting in an auditorium filled to the brim with children&amp;comma; teenagers&amp;comma; teachers&amp;comma; carers&amp;comma; parents&amp;comma; play leaders&amp;comma; and even the Deputy Mayor&amp;period; The lights are dimmed the projector is fired up and the loud music begins&amp;period;</p><img src="http://www.dad.info/images/scary_guy2.jpg" /></article>
